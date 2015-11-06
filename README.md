@@ -17,3 +17,8 @@ You can update the module with this command
 ```bash
 $ modman update Raveinfosys_Deleteorder-1.0.8
 ```
+
+From
+----
+
+[Delete Orders](http://www.magentocommerce.com/magento-connect/delete-orders-6.html) from [Rave Infosys](http://www.magentocommerce.com/magento-connect/developer/Rave+Infosys)
