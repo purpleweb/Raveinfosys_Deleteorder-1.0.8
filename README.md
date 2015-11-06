@@ -3,6 +3,13 @@ README
 
 Raveinfosys_Deleteorder-1.0.8 for Magento
 
+This extension allows you to delete orders.
+
+Requirements
+------------
+
+Compatible with the following Magento versions: 1.5, 1.6, 1.6.1, 1.6.2.0, 1.7, 1.8, 1.8.1, 1.9
+
 Install via Modman
 ----------------
 
